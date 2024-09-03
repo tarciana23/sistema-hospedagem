@@ -1,0 +1,14 @@
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\bin\Debug\net8.0\sistema-hospedagem.exe
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\bin\Debug\net8.0\sistema-hospedagem.deps.json
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\bin\Debug\net8.0\sistema-hospedagem.runtimeconfig.json
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\bin\Debug\net8.0\sistema-hospedagem.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\bin\Debug\net8.0\sistema-hospedagem.pdb
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.AssemblyInfo.cs
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\refint\sistema-hospedagem.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.pdb
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\sistema-hospedagem.genruntimeconfig.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\sistema-hospedagem\obj\Debug\net8.0\ref\sistema-hospedagem.dll
